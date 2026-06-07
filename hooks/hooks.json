@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "[ -f wiki/index.md ] && head -60 wiki/index.md || true"
+          }
+        ]
+      }
+    ]
+  }
+}
