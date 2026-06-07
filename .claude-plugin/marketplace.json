@@ -1,0 +1,14 @@
+{
+  "name": "debby-claudia",
+  "owner": {
+    "name": "solapentula",
+    "url": "https://github.com/solapentula"
+  },
+  "plugins": [
+    {
+      "name": "debby-claudia",
+      "source": "./",
+      "description": "Claude x Obsidian hybrid-light second brain architecture. Run /secondbrain-init to scaffold a vault."
+    }
+  ]
+}
