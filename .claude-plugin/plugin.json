@@ -1,0 +1,8 @@
+{
+  "name": "debby-claudia",
+  "version": "0.1.0",
+  "description": "Claude x Obsidian hybrid-light second brain: token-efficient tiered reading, PARA + a thin wiki index, a weight-scaled prompt protocol, and two-layer cross-session memory.",
+  "author": "solapentula",
+  "homepage": "https://github.com/solapentula/debby-claudia",
+  "license": "MIT"
+}
